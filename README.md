@@ -4,6 +4,7 @@ cover: >-
 coverY: 0
 ---
 
+This is a test
 # 👋 Welcome!
 
 {% hint style="info" %}
