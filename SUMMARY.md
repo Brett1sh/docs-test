@@ -22,7 +22,3 @@
 ## Policies
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
-
-***
-
-* [Arch1tecture](http://127.0.0.1:5000/s/NPh4y51fVbbnysshBDZZ/team/meet-the-team#bio)
