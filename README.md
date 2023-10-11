@@ -4,8 +4,11 @@ cover: >-
 coverY: 0
 ---
 
-This is a test
 # 👋 Welcome!
+
+This is a test
+
+## 👋 Welcome!
 
 {% hint style="info" %}
 **About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
@@ -17,6 +20,8 @@ For **long- a0adsiat**ill a
 
 * b
 * List i2
+* dkjflkgkldsjgfd
+* sdffsd
 
 ct as a reminder and allow you to find answers about admin and policies etc.
 
