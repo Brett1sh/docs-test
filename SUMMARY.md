@@ -23,6 +23,6 @@
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
 
-***
+## Anchors
 
 * [Anchor](about-us/values.md#our-values)
